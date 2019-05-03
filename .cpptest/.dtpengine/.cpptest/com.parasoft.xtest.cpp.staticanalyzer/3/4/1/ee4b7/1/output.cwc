@@ -1,0 +1,160 @@
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistance' is passed by value
+<l>281
+<k>58
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistanceBetweenLinks' is passed by value
+<l>303
+<k>58
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindRoute' is passed by value
+<l>360
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindShortestRoute' is passed by value
+<l>368
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'SearchNode' is passed by value
+<l>403
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'SearchNodeShortest' is passed by value
+<l>425
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistance' is passed by value
+<l>30
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistanceBetweenLinks' is passed by value
+<l>31
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindRoute' is passed by value
+<l>33
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindShortestRoute' is passed by value
+<l>34
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'SearchNode' is passed by value
+<l>35
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'SearchNodeShortest' is passed by value
+<l>36
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OOP-27
+<b>Class 'Node' does not have explicitly defined assignment operator
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-13
+<b>Members 'm_connections' of class 'Node' are declared in suboptimal order for memory layout
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>MRM-49
+<b>Class 'Arc' shall declare a copy constructor
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>OPT-13
+<b>Members 'm_arcType' of class 'Arc' are declared in suboptimal order for memory layout
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0

@@ -1,0 +1,100 @@
+<->
+<F>C:\Temp\Temp\ACW_Template\Arc.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'ArcType' returns handles to member data: 'm_arcType'
+<l>14
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Arc.cpp
+<c>OPT-24
+<b>Function 'SetArcType' is not inlined
+<l>27
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Arc.cpp
+<c>OOP-34
+<b>Check for assignment to self in operator= in class 'Arc'
+<l>32
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\temp\acw_template\Arc.h
+<c>MRM-49
+<b>Class 'Arc' shall declare a copy constructor
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\temp\acw_template\Arc.h
+<c>OPT-13
+<b>Members 'm_arcType' of class 'Arc' are declared in suboptimal order for memory layout
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Arc.cpp
+<c>OPT-23
+<b>Getter/setter method 'SetNode' is not inlined
+<l>22
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Arc.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'ArcType' returns handles to member data: 'm_arcType'
+<l>14
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Arc.cpp
+<c>OPT-24
+<b>Function 'SetArcType' is not inlined
+<l>27
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\temp\acw_template\Node.h
+<c>OOP-27
+<b>Class 'Node' does not have explicitly defined assignment operator
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\temp\acw_template\Node.h
+<c>OPT-13
+<b>Members 'm_connections' of class 'Node' are declared in suboptimal order for memory layout
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0

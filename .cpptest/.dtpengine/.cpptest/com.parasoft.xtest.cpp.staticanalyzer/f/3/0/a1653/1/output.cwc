@@ -1,0 +1,120 @@
+<->
+<F>C:\Temp\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'Location' returns handles to member data: 'm_location'
+<l>16
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'ID' returns handles to member data: 'm_id'
+<l>21
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'Connections' returns handles to member data: 'm_connections'
+<l>36
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Node.cpp
+<c>OPT-24
+<b>Function 'AddLink' is not inlined
+<l>39
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OOP-27
+<b>Class 'Node' does not have explicitly defined assignment operator
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-13
+<b>Members 'm_connections' of class 'Node' are declared in suboptimal order for memory layout
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'Location' returns handles to member data: 'm_location'
+<l>16
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'ID' returns handles to member data: 'm_id'
+<l>21
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Node.cpp
+<c>CODSTA-CPP-06
+<b>Member function 'Connections' returns handles to member data: 'm_connections'
+<l>36
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Node.cpp
+<c>OPT-24
+<b>Function 'AddLink' is not inlined
+<l>39
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>MRM-49
+<b>Class 'Arc' shall declare a copy constructor
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>OPT-13
+<b>Members 'm_arcType' of class 'Arc' are declared in suboptimal order for memory layout
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0

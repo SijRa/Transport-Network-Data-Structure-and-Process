@@ -1,0 +1,270 @@
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'transportType' of function 'GenerateValidTransport' is passed by value
+<l>21
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'idList' of function 'CheckRoute' is passed by value
+<l>27
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'transportMode' of function 'CheckRoute' is passed by value
+<l>27
+<k>75
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'node' of function 'NodeContained' is passed by value
+<l>28
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'list' of function 'NodeContained' is passed by value
+<l>28
+<k>56
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'transports' of function 'TransportValid' is passed by value
+<l>29
+<k>87
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'transportMode' of function 'MoveToVia' is passed by value
+<l>32
+<k>60
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'B' of function 'FindRoute' is passed by value
+<l>33
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'B' of function 'FindShortestRoute' is passed by value
+<l>34
+<k>52
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'searchList' of function 'SearchNode' is passed by value
+<l>35
+<k>68
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'targetNode' of function 'SearchNode' is passed by value
+<l>35
+<k>91
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'searchList' of function 'SearchNodeShortest' is passed by value
+<l>36
+<k>76
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'targetNode' of function 'SearchNodeShortest' is passed by value
+<l>36
+<k>99
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'node' of function 'FindParent' is passed by value
+<l>37
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'searchList' of function 'FindParent' is passed by value
+<l>37
+<k>54
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'searchList' of function 'NextChild' is passed by value
+<l>40
+<k>54
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'targetNode' of function 'NextChild' is passed by value
+<l>40
+<k>77
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'searchList' of function 'ClosestChild' is passed by value
+<l>41
+<k>57
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-14
+<b>The parameter 'targetNode' of function 'ClosestChild' is passed by value
+<l>41
+<k>80
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistance' is passed by value
+<l>30
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistanceBetweenLinks' is passed by value
+<l>31
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindRoute' is passed by value
+<l>33
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindShortestRoute' is passed by value
+<l>34
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'SearchNode' is passed by value
+<l>35
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'SearchNodeShortest' is passed by value
+<l>36
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindNode' is passed by value
+<l>38
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\ACW_Wrapper.h
+<c>OPT-13
+<b>Members '_ellapsedTimes, _startTime' of class 'ACW_Wrapper' are declared in suboptimal order for memory layout
+<l>12
+<k>7
+<s>false
+<N>
+<f>
+<L>0

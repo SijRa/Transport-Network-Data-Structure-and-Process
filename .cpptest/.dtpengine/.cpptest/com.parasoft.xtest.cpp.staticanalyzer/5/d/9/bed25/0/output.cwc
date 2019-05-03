@@ -1,0 +1,200 @@
+<->
+<F>C:\Temp\ACW_Template\Arc.cpp
+<c>INIT-10
+<b>List members in an initialization list should be in the order in which they are declared ['m_arcType', 'm_node']
+<l>4
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Arc.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'node' as const
+<l>4
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>OPT-14
+<b>Returned value from function 'arcType' is passed by value
+<l>14
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>OOP-27
+<b>Class 'Arc' does not have explicitly defined assignment operator
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>CODSTA-CPP-54
+<b>Member function 'arcType' should be declared as const
+<l>14
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>OOP-18
+<b>Data members 'm_node' is declared as 'public'
+<l>15
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>MRM-49
+<b>Class 'Arc' shall declare a copy assignment operator
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>MRM-49
+<b>Class 'Arc' shall declare a copy constructor
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>CODSTA-CPP-81
+<b>Arc: the percentage of getters and setters (100.00) is equal or higher than the threshold (100.00)
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-14
+<b>Returned value from function 'location' is passed by value
+<l>19
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-14
+<b>Returned value from function 'id' is passed by value
+<l>20
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-14
+<b>Returned value from function 'connections' is passed by value
+<l>23
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OOP-27
+<b>Class 'Node' does not have explicitly defined assignment operator
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'location' should be declared as const
+<l>19
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'id' should be declared as const
+<l>20
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'latitude' should be declared as const
+<l>21
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'longitude' should be declared as const
+<l>22
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'connections' should be declared as const
+<l>23
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-13
+<b>Members 'm_connections' of class 'Node' are declared in suboptimal order for memory layout
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-33
+<b>Returned value from function 'connections' is passed by value
+<l>23
+<k>20
+<s>false
+<N>
+<f>
+<L>0

@@ -1,0 +1,19 @@
+﻿  Arc.cpp
+  Main.cpp
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.h(32): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.h(37): warning C4114: same type qualifier used more than once
+  Navigation.cpp
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.h(32): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.h(37): warning C4114: same type qualifier used more than once
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.cpp(159): warning C4114: same type qualifier used more than once
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.cpp(190): warning C4114: same type qualifier used more than once
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.cpp(351): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.cpp(379): warning C4114: same type qualifier used more than once
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.cpp(383): warning C4114: same type qualifier used more than once
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.cpp(394): warning C4114: same type qualifier used more than once
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.cpp(396): warning C4114: same type qualifier used more than once
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.cpp(450): warning C4114: same type qualifier used more than once
+C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Navigation.cpp(495): warning C4114: same type qualifier used more than once
+  Node.cpp
+  Generating Code...
+  ACW_Template.vcxproj -> C:\Users\Sijan\Desktop\University Work\Advanced Programming\Assessed Coursework\Post-Parasoft\ACW_Template\Debug\ACW_Template.exe

@@ -1,0 +1,120 @@
+------- cpptestscan v.10.3.0 (cpptesttrace) -------
+working_dir=C:\Temp\ACW_Template\
+project_name=ACW_Template
+arg=cl.exe
+arg=-IC:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.4\engine\runtime\include
+arg=/ZI
+arg=/W3
+arg=/Od
+arg=/EHsc
+arg=/RTC1
+arg=/MDd
+arg=/fp:precise
+arg=/Gd
+arg=/GS
+arg=/sdl
+arg=/Gm-
+arg=/D_MBCS
+arg=/Zc:wchar_t
+arg=/Zc:forScope
+arg=/Zc:inline
+arg=/WX-
+arg=/nologo
+arg=/FC
+arg=/diagnostics:classic
+arg=-DPARASOFT_CPPTEST
+arg=-I.
+arg=C:\Temp\ACW_Template\Arc.cpp
+env+=Path=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;;C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\emacs-26.1-x86_64\bin;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\MinGW\bin;C:\GnuWin32\Flex\bin;C:\GnuWin32\Bison\bin;C:\Program Files (x86)\Microchip\xc8\v2.00\bin;C:\PROGRAM FILES\OPENOFFICE.ORG 3\URE\BIN;C:\PROGRAM FILES (X86)\OPENOFFICE.ORG 3\URE\BIN;C:\Program Files\OpenCV;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\CCM;C:\Program Files\TortoiseSVN\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\554282\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;;C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\emacs-26.1-x86_64\bin;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\MinGW\bin;C:\GnuWin32\Flex\bin;C:\GnuWin32\Bison\bin;C:\Program Files (x86)\Microchip\xc8\v2.00\bin;C:\PROGRAM FILES\OPENOFFICE.ORG 3\URE\BIN;C:\PROGRAM FILES (X86)\OPENOFFICE.ORG 3\URE\BIN;C:\Program Files\OpenCV;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\CCM;C:\Program Files\TortoiseSVN\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\554282\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core
+env+=INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;
+env+=LIB=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64;;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Lib\um\x64
+------- cpptestscan v.10.3.0 (cpptesttrace) -------
+working_dir=C:\Temp\ACW_Template\
+project_name=ACW_Template
+arg=cl.exe
+arg=-IC:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.4\engine\runtime\include
+arg=/ZI
+arg=/W3
+arg=/Od
+arg=/EHsc
+arg=/RTC1
+arg=/MDd
+arg=/fp:precise
+arg=/Gd
+arg=/GS
+arg=/sdl
+arg=/Gm-
+arg=/D_MBCS
+arg=/Zc:wchar_t
+arg=/Zc:forScope
+arg=/Zc:inline
+arg=/WX-
+arg=/nologo
+arg=/FC
+arg=/diagnostics:classic
+arg=-DPARASOFT_CPPTEST
+arg=-I.
+arg=C:\Temp\ACW_Template\Main.cpp
+env+=Path=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;;C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\emacs-26.1-x86_64\bin;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\MinGW\bin;C:\GnuWin32\Flex\bin;C:\GnuWin32\Bison\bin;C:\Program Files (x86)\Microchip\xc8\v2.00\bin;C:\PROGRAM FILES\OPENOFFICE.ORG 3\URE\BIN;C:\PROGRAM FILES (X86)\OPENOFFICE.ORG 3\URE\BIN;C:\Program Files\OpenCV;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\CCM;C:\Program Files\TortoiseSVN\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\554282\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;;C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\emacs-26.1-x86_64\bin;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\MinGW\bin;C:\GnuWin32\Flex\bin;C:\GnuWin32\Bison\bin;C:\Program Files (x86)\Microchip\xc8\v2.00\bin;C:\PROGRAM FILES\OPENOFFICE.ORG 3\URE\BIN;C:\PROGRAM FILES (X86)\OPENOFFICE.ORG 3\URE\BIN;C:\Program Files\OpenCV;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\CCM;C:\Program Files\TortoiseSVN\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\554282\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core
+env+=INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;
+env+=LIB=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64;;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Lib\um\x64
+------- cpptestscan v.10.3.0 (cpptesttrace) -------
+working_dir=C:\Temp\ACW_Template\
+project_name=ACW_Template
+arg=cl.exe
+arg=-IC:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.4\engine\runtime\include
+arg=/ZI
+arg=/W3
+arg=/Od
+arg=/EHsc
+arg=/RTC1
+arg=/MDd
+arg=/fp:precise
+arg=/Gd
+arg=/GS
+arg=/sdl
+arg=/Gm-
+arg=/D_MBCS
+arg=/Zc:wchar_t
+arg=/Zc:forScope
+arg=/Zc:inline
+arg=/WX-
+arg=/nologo
+arg=/FC
+arg=/diagnostics:classic
+arg=-DPARASOFT_CPPTEST
+arg=-I.
+arg=C:\Temp\ACW_Template\Navigation.cpp
+env+=Path=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;;C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\emacs-26.1-x86_64\bin;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\MinGW\bin;C:\GnuWin32\Flex\bin;C:\GnuWin32\Bison\bin;C:\Program Files (x86)\Microchip\xc8\v2.00\bin;C:\PROGRAM FILES\OPENOFFICE.ORG 3\URE\BIN;C:\PROGRAM FILES (X86)\OPENOFFICE.ORG 3\URE\BIN;C:\Program Files\OpenCV;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\CCM;C:\Program Files\TortoiseSVN\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\554282\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;;C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\emacs-26.1-x86_64\bin;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\MinGW\bin;C:\GnuWin32\Flex\bin;C:\GnuWin32\Bison\bin;C:\Program Files (x86)\Microchip\xc8\v2.00\bin;C:\PROGRAM FILES\OPENOFFICE.ORG 3\URE\BIN;C:\PROGRAM FILES (X86)\OPENOFFICE.ORG 3\URE\BIN;C:\Program Files\OpenCV;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\CCM;C:\Program Files\TortoiseSVN\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\554282\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core
+env+=INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;
+env+=LIB=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64;;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Lib\um\x64
+------- cpptestscan v.10.3.0 (cpptesttrace) -------
+working_dir=C:\Temp\ACW_Template\
+project_name=ACW_Template
+arg=cl.exe
+arg=-IC:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.4\engine\runtime\include
+arg=/ZI
+arg=/W3
+arg=/Od
+arg=/EHsc
+arg=/RTC1
+arg=/MDd
+arg=/fp:precise
+arg=/Gd
+arg=/GS
+arg=/sdl
+arg=/Gm-
+arg=/D_MBCS
+arg=/Zc:wchar_t
+arg=/Zc:forScope
+arg=/Zc:inline
+arg=/WX-
+arg=/nologo
+arg=/FC
+arg=/diagnostics:classic
+arg=-DPARASOFT_CPPTEST
+arg=-I.
+arg=C:\Temp\ACW_Template\Node.cpp
+env+=Path=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;;C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\emacs-26.1-x86_64\bin;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\MinGW\bin;C:\GnuWin32\Flex\bin;C:\GnuWin32\Bison\bin;C:\Program Files (x86)\Microchip\xc8\v2.00\bin;C:\PROGRAM FILES\OPENOFFICE.ORG 3\URE\BIN;C:\PROGRAM FILES (X86)\OPENOFFICE.ORG 3\URE\BIN;C:\Program Files\OpenCV;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\CCM;C:\Program Files\TortoiseSVN\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\554282\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;;C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\emacs-26.1-x86_64\bin;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\MinGW\bin;C:\GnuWin32\Flex\bin;C:\GnuWin32\Bison\bin;C:\Program Files (x86)\Microchip\xc8\v2.00\bin;C:\PROGRAM FILES\OPENOFFICE.ORG 3\URE\BIN;C:\PROGRAM FILES (X86)\OPENOFFICE.ORG 3\URE\BIN;C:\Program Files\OpenCV;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\CCM;C:\Program Files\TortoiseSVN\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\554282\AppData\Local\Microsoft\WindowsApps;;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core
+env+=INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;
+env+=LIB=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64;;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Lib\um\x64

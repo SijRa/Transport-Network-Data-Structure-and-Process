@@ -1,0 +1,60 @@
+<->
+<F>C:\Temp\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistance' is passed by value
+<l>284
+<k>58
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistanceBetweenLinks' is passed by value
+<l>306
+<k>58
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindRoute' is passed by value
+<l>363
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindShortestRoute' is passed by value
+<l>371
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'SearchNode' is passed by value
+<l>406
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'SearchNodeShortest' is passed by value
+<l>428
+<k>31
+<s>false
+<N>
+<f>
+<L>0

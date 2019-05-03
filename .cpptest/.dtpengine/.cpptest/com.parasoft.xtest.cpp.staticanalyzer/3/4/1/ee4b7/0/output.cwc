@@ -1,0 +1,970 @@
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'transportType' of function 'GenerateValidTransport' is passed by value
+<l>23
+<k>59
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'idList' of function 'CheckRoute' is passed by value
+<l>326
+<k>60
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'transportType' of function 'CheckRoute' is passed by value
+<l>326
+<k>86
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'transportType' of function 'MoveToVia' is passed by value
+<l>348
+<k>71
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'B' of function 'FindRoute' is passed by value
+<l>360
+<k>55
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'B' of function 'FindShortestRoute' is passed by value
+<l>368
+<k>63
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'node' of function 'NodeContained' is passed by value
+<l>376
+<k>37
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'list' of function 'NodeContained' is passed by value
+<l>376
+<k>67
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'list' of function 'TransportValid' is passed by value
+<l>391
+<k>98
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'searchList' of function 'SearchNode' is passed by value
+<l>403
+<k>79
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'targetNode' of function 'SearchNode' is passed by value
+<l>403
+<k>96
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'searchList' of function 'SearchNodeShortest' is passed by value
+<l>425
+<k>87
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'targetNode' of function 'SearchNodeShortest' is passed by value
+<l>425
+<k>104
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'childNode' of function 'FindParent' is passed by value
+<l>445
+<k>35
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'searchList' of function 'FindParent' is passed by value
+<l>445
+<k>64
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'searchList' of function 'NextChild' is passed by value
+<l>483
+<k>63
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'targetNode' of function 'NextChild' is passed by value
+<l>483
+<k>80
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'searchList' of function 'ClosestChild' is passed by value
+<l>500
+<k>68
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-14
+<b>The parameter 'targetNode' of function 'ClosestChild' is passed by value
+<l>500
+<k>85
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'A' as const
+<l>97
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'B' as const
+<l>98
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'Distance' as const
+<l>99
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'arc' as const
+<l>111
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'A' as const
+<l>145
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'A' as const
+<l>178
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'currentNode' as const
+<l>230
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'currentArc' as const
+<l>266
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'destinationArc' as const
+<l>267
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistance' is passed by value
+<l>281
+<k>58
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistanceBetweenLinks' is passed by value
+<l>303
+<k>58
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'link' as const
+<l>312
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'A' as const
+<l>331
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'B' as const
+<l>332
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'result' as const
+<l>333
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'A' as const
+<l>348
+<k>41
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'B' as const
+<l>348
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'link' as const
+<l>350
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindRoute' is passed by value
+<l>360
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'A' as const
+<l>360
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindShortestRoute' is passed by value
+<l>368
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'A' as const
+<l>368
+<k>55
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'transport' as const
+<l>393
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'SearchNode' is passed by value
+<l>403
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'currentNode' as const
+<l>403
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'childNode' as const
+<l>405
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'parent' as const
+<l>410
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'SearchNodeShortest' is passed by value
+<l>425
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'currentNode' as const
+<l>425
+<k>56
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'childNode' as const
+<l>427
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'parent' as const
+<l>432
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'FindNode' is passed by value
+<l>460
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'node' as const
+<l>462
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'node' as const
+<l>473
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'mainNode' as const
+<l>483
+<k>35
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'searchList' as const
+<l>483
+<k>63
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'arc' as const
+<l>486
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'node' as const
+<l>500
+<k>38
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'arc' as const
+<l>505
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-51
+<b>Inline function 'DistanceBetweenNodes' was found in source file
+<l>526
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'nodeA' as const
+<l>526
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'nodeB' as const
+<l>526
+<k>60
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'xChange' as const
+<l>528
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'yChange' as const
+<l>529
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'aSqrd' as const
+<l>530
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'bSqrd' as const
+<l>531
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'c' as const
+<l>532
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'finPlaces' as const
+<l>538
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'finLinks' as const
+<l>539
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'NodeContained' should be declared as const
+<l>376
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'TransportValid' should be declared as const
+<l>391
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'MoveToVia' should be declared as const
+<l>348
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\ACW_Template\Navigation.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'DistanceBetweenNodes' should be declared as const
+<l>526
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistance' is passed by value
+<l>30
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistanceBetweenLinks' is passed by value
+<l>31
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindRoute' is passed by value
+<l>33
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindShortestRoute' is passed by value
+<l>34
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'SearchNode' is passed by value
+<l>35
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'SearchNodeShortest' is passed by value
+<l>36
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindNode' is passed by value
+<l>38
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-14
+<b>Returned value from function 'location' is passed by value
+<l>19
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-14
+<b>Returned value from function 'id' is passed by value
+<l>20
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-14
+<b>Returned value from function 'connections' is passed by value
+<l>23
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OOP-27
+<b>Class 'Node' does not have explicitly defined assignment operator
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'location' should be declared as const
+<l>19
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'id' should be declared as const
+<l>20
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'latitude' should be declared as const
+<l>21
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'longitude' should be declared as const
+<l>22
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>CODSTA-CPP-54
+<b>Member function 'connections' should be declared as const
+<l>23
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-13
+<b>Members 'm_connections' of class 'Node' are declared in suboptimal order for memory layout
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Node.h
+<c>OPT-33
+<b>Returned value from function 'connections' is passed by value
+<l>23
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>OPT-14
+<b>Returned value from function 'arcType' is passed by value
+<l>14
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>OOP-27
+<b>Class 'Arc' does not have explicitly defined assignment operator
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>CODSTA-CPP-54
+<b>Member function 'arcType' should be declared as const
+<l>14
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>OOP-18
+<b>Data members 'm_node' is declared as 'public'
+<l>15
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>MRM-49
+<b>Class 'Arc' shall declare a copy assignment operator
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>MRM-49
+<b>Class 'Arc' shall declare a copy constructor
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Arc.h
+<c>CODSTA-CPP-81
+<b>Arc: the percentage of getters and setters (100.00) is equal or higher than the threshold (100.00)
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0

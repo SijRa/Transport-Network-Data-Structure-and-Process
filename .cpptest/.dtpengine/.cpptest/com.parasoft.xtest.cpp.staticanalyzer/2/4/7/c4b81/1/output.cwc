@@ -1,0 +1,70 @@
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistance' is passed by value
+<l>30
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindMaximumDistanceBetweenLinks' is passed by value
+<l>31
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindRoute' is passed by value
+<l>33
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'FindShortestRoute' is passed by value
+<l>34
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'SearchNode' is passed by value
+<l>35
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'SearchNodeShortest' is passed by value
+<l>36
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\acw_template\ACW_Wrapper.h
+<c>OPT-13
+<b>Members '_ellapsedTimes, _startTime' of class 'ACW_Wrapper' are declared in suboptimal order for memory layout
+<l>12
+<k>7
+<s>false
+<N>
+<f>
+<L>0
